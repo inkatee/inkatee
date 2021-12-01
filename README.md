@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @inkatee
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ / Scala
 - 💞️ I’m looking to collaborate on easy/entry level projects
 - 📫 inkalateemu@outlook.com
 
