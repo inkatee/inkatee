@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @inkatee
-- 👀 I’m interested in problem solving and algorithms
-- 🌱 I’m currently learning C/C++ as primary language
+- 👀 I’m interested in C/C++
+- 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on easy/entry level projects
 - 📫 inkalateemu@outlook.com
 
